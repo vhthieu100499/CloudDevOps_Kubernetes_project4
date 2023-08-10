@@ -23,6 +23,17 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
+## Detailed explaination about files
+
+* app.py: A Python flask app that serves out predictions about housing prices.
+* Dockerfile: A set of instructions to automatically build docker.
+* make_prediction.sh: Call api to get predicted value from the flask app server.
+* Makefile: A handy way to run commands in the environment.
+* requirements.txt: List of all dependencies required to run the flask app.
+* run_docker.sh: A script file to build and run the image Docker.
+* run_kubernetes.sh: A script file to run container in Kubernetes Pod.
+* upload_docker.sh: A script file to push to Dockerhub.
+
 ## Setup the Environment
 
 * Create a virtualenv with Python 3.7 and activate it. Refer to this link for help on specifying the Python version in the virtualenv. 
