@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/vhthieu100499/CloudDevOps_Kubernetes_project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/vhthieu100499/CloudDevOps_Kubernetes_project4/tree/main)
 
 ## Project Overview
 
